@@ -33,6 +33,7 @@ https://github.com/orgs/fdnd-agency/projects/28/views/1?pane=issue&itemId=893660
 [https://github.com/orgs/fdnd-agency/projects/28/views/1?pane=issue&itemId=89366042&issue=fdnd-agency%7Cred-pers%7C53](https://github.com/orgs/fdnd-agency/projects/28/views/1?filterQuery=kerst&pane=issue&itemId=91059896&issue=fdnd-agency%7Cred-pers%7C58)
 
 #### Live URL
+Vergeet niet om op Christmas mode te klikken :)
 [[Link naar de live versie]](https://sfeervolle-kerstsfeer-met-toeters.netlify.app/)
 
 ---
