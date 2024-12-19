@@ -1,38 +1,39 @@
-# sv
+# Welkom bij Sprint 17 - Creative Code Spike
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+Welkom bij de readme van Sprint 17! In deze sprint hebben we ons gericht op drie creatieve spikes om innovatieve oplossingen te verkennen en uit te proberen. Hieronder vind je een overzicht van de drie spikes met voorbeelden, inspiratie en live URL's.
 
-## Creating a project
+### Spike 1: [Naam van de Spike]
 
-If you're seeing this, you've probably already done this step. Congrats!
+#### Voorbeeld
+[Omschrijving van het voorbeeld]
 
-```bash
-# create a new project in the current directory
-npx sv create
+#### Inspiratie
+[Korte toelichting op de inspiratie]
 
-# create a new project in my-app
-npx sv create my-app
-```
+#### Live URL
+[Link naar de live versie]
 
-## Developing
+### Spike 2: [Naam van de Spike]
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+#### Voorbeeld
+[Omschrijving van het voorbeeld]
 
-```bash
-npm run dev
+#### Inspiratie
+[Korte toelichting op de inspiratie]
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+#### Live URL
+[Link naar de live versie]
 
-## Building
+### Spike 3: [Naam van de Spike]
 
-To create a production version of your app:
+#### Voorbeeld
+[Omschrijving van het voorbeeld]
 
-```bash
-npm run build
-```
+#### Inspiratie
+[Korte toelichting op de inspiratie]
 
-You can preview the production build with `npm run preview`.
+#### Live URL
+[Link naar de live versie]
 
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+---
+Feedback of vragen zijn altijd welkom!
